@@ -15,7 +15,7 @@ Introduction:
 
 This Project involves the following steps :
 
--Task 1:
+-Task 1:/n
       Reading the data:
                       Read the movies data file provided and store it in a Excel wordkbook(movies).
 -Task 2:
