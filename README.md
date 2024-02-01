@@ -14,6 +14,7 @@ We have the data for the top-rated movies from the past decade along with variou
 this analysis, we will try to find some interesting insights into these movies and their voters, using excel.
 
 This Project involves the following steps :
+
 -Task 1:
 
 Reading the data:
