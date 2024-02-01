@@ -43,3 +43,9 @@ Here is a possible conclusion for the IMDb data analysis:
 - The data analysis aims to uncover trends and insights about the IMDb ratings, such as the distribution, correlation, and factors that influence them.
 
 
+## Created by:
+[@Naveen Varshney]( https://github.com/naveenvar07)
+Naveen Varshney – Data Analyst
+
+
+
