@@ -28,11 +28,11 @@ Data Cleaning:
 Now that we have loaded the dataset and inspected it, we see that most of the data is in place. As of now, no data cleaning is required, so let's start with some data 
 manipulation, analysis, and visualisation to get various insights about the data.
 
--Task 4:
+-Task 3:
      	
 Explotory data analysis(EDA)
 
--Task 6:
+-Task 4:
       
 Data visualization by Dashboard & insights
 
