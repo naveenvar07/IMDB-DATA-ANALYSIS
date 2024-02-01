@@ -45,6 +45,7 @@ Here is a possible conclusion for the IMDb data analysis:
 
 ## Created by:
 [@Naveen Varshney]( https://github.com/naveenvar07)
+
 Naveen Varshney – Data Analyst
 
 
