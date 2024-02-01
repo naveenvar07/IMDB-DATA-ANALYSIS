@@ -40,8 +40,5 @@ Here is a possible conclusion for the IMDb data analysis:
 
 - The IMDb data set contains information about movies and TV shows, such as ratings, genres, directors, actors, and reviews.
 - The data analysis aims to uncover trends and insights about the IMDb ratings, such as the distribution, correlation, and factors that influence them.
-- Some of the key findings from the data analysis are:
 
-  
--
 
