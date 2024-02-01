@@ -14,8 +14,7 @@ Introduction:
              this analysis, we will try to find some interesting insights into these movies and their voters, using excel.
 
 This Project involves the following steps :
-
--Task 1:/n
+-Task 1:
       Reading the data:
                       Read the movies data file provided and store it in a Excel wordkbook(movies).
 -Task 2:
