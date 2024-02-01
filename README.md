@@ -36,6 +36,7 @@ Explotory data analysis(EDA)
       
 Data visualization by Dashboard & insights
 
+
 Here is a possible conclusion for the IMDb data analysis:
 
 - The IMDb data set contains information about movies and TV shows, such as ratings, genres, directors, actors, and reviews.
